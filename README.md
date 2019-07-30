@@ -22,6 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# Fish-Tinder
-# Fish-Tinder-Backend
 # Fish-Tinder-Backend
